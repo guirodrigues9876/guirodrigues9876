@@ -1,4 +1,4 @@
-### Olá!  👋
+### Olá!👋 Conheça um pouco sobre mim:
 
 - 🌱 Aluno da turma 05 do Explorer - RocketSeat (HTML 5, CSS3, JavaSript e React)
 - 🎓 Cursando Bacharel em Engenharia de Software
