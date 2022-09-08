@@ -4,7 +4,7 @@
 - 🎓 Cursando Bacharel em Engenharia de Software
 - 👨🏼‍🎓 Técnologo em Análise e Desenvolvimento de Sistemas
 - 🤔 Buscando uma oportunidade na área de Desenvolvimento
-- 😄 Pronouns: Ele/dele He/him
+- 😄 Pronomes: Ele/dele He/him
 - ⚡ Passatempo: Esportes, música e séries
 
 <br>
