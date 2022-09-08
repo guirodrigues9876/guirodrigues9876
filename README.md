@@ -5,9 +5,9 @@
 - 👨🏼‍🎓 Técnologo em Análise e Desenvolvimento de Sistemas
 - 🤔 Buscando uma oportunidade na área de Desenvolvimento
 - 😄 Pronouns: Ele/dele He/him
-- ⚡ Passatempo: Esportes, música e séries.
--->
+- ⚡ Passatempo: Esportes, música e séries
 
+<br>
 <br>
 
 <div display="inline" align="center">
@@ -16,6 +16,8 @@
   <img height="180em" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guirodrigues9876&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
+  <br>
+  
 <div align="center">
 
 
@@ -28,6 +30,9 @@
 
 ##
 
+  <br>
+  
+  
 <div align="center" width= 50%> 
   <a href = "mailto:guilherme121225@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/guilhermesantoss/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
