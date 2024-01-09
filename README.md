@@ -1,6 +1,7 @@
 ### Olá!👋 Conheça um pouco sobre mim:
 
-- 🌱 Aluno da turma 05 do Explorer - RocketSeat (HTML 5, CSS3, JavaSript e React)
+- 🌱 Data Analyst Bootcamp - Youtube Channel Alex The Analyst (Python, SQL, POWER BI, TABLEAU, EXCEL)
+- 🎓 Explorer - RocketSeat (JavaSript, React, Node, SQL)
 - 🎓 Cursando Bacharel em Engenharia de Software
 - 👨🏼‍🎓 Técnologo em Análise e Desenvolvimento de Sistemas
 - 🤔 Buscando uma oportunidade na área de Desenvolvimento
@@ -10,6 +11,14 @@
 <br>
 <br>
 
+<div align="center" width= 50%> 
+  
+![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+</div>
 
 ##
 
