@@ -4,7 +4,6 @@
 - 🎓 Explorer - RocketSeat (JavaSript, React, Node, SQL)
 - 🎓 Cursando Bacharel em Engenharia de Software
 - 👨🏼‍🎓 Técnologo em Análise e Desenvolvimento de Sistemas
-- 🤔 Buscando uma oportunidade na área de Desenvolvimento
 - 😄 Pronomes: Ele/dele He/him
 - ⚡ Passatempo: Esportes, música e séries
 
